@@ -1,0 +1,19 @@
+# AuthForge - Coming Soon
+# Full docker-compose stack will be available in Phase 1
+
+version: '3.8'
+
+services:
+  # Core services coming soon:
+  # - zitadel (Identity Provider)
+  # - hydra (OAuth Server)
+  # - cerbos (Policy Engine)
+  # - vault (Token Vault)
+  # - authforge-api (Core API)
+  
+  placeholder:
+    image: nginx:alpine
+    ports:
+      - "3000:80"
+    volumes:
+      - ./docs:/usr/share/nginx/html
