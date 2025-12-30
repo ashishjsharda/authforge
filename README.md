@@ -58,7 +58,7 @@ Built on:
 ## 📬 Stay Updated
 
 
-- 🐦 [Twitter](https://twitter.com/authforge)
+- 🐦 [Twitter](https://x.com/ashishjsharda)
 
 ## 📄 License
 
